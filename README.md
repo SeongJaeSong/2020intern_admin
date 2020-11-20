@@ -63,3 +63,8 @@ npm run
 | source-map-support| 0.5.19 |
 | winston| 3.3.3 |
 | winston-daily-rotate-file| 4.5.0 |
+
+---
+
+## 인턴십 후기..
+https://42place.innovationacademy.kr/archives/722
